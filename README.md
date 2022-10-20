@@ -1,2 +1,2 @@
-# Escola
-Trabalhos escolares
+# Probabilidade e Estatistica
+### Feito no google colab
